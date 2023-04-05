@@ -2,7 +2,7 @@ import myNav from './nav.js'
 import mySidebar from './sidebar.js'
 export default {
   title: 'yueran',
-  description: 'Just playing around.',
+  description: 'Just playing.',
   author: 'yueran',
   base: '/yueran-doc/',
   lastUpdated: true,
