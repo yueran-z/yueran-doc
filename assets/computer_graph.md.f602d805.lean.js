@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,a as l}from"./app.e5b5e395.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"computer/graph.md","lastUpdated":1679758597000}'),p={name:"computer/graph.md"},t=l("",4),e=[t];function o(c,r,i,y,D,C){return n(),a("div",null,e)}const u=s(p,[["render",o]]);export{d as __pageData,u as default};
