@@ -1,10 +1,10 @@
 import myNav from './nav.js'
 import mySidebar from './sidebar.js'
 export default {
-  title: 'WThinking',
+  title: 'yueran',
   description: 'Just playing around.',
-  author: 'wujihuan',
-  base: '/wujihuan-doc/',
+  author: 'yueran',
+  base: '/yueran-doc/',
   lastUpdated: true,
   markdown: {
     lineNumbers: true,
@@ -20,18 +20,18 @@ export default {
   themeConfig: {
     nav: myNav, //导航栏配置
     sidebar: mySidebar, //侧边栏配置
-    author: 'wujihuan',
+    author: 'yueran',
     lastUpdatedText: '上次更新时间', //最后更新时间文本
     // logo: "/img/avatar.jpg", //导航栏左侧头像
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Jlnvv-tom' },
+      { icon: 'github', link: 'https://github.com/yueran-z' },
     ],
     docFooter: { //上下篇文本
       prev: '上一篇',
       next: '下一篇'
     },
     editLink: {
-      pattern: 'https://github.com/Jlnvv-tom/wujihuan-doc/edit/dev/docs/:path'
+      pattern: 'https://github.com/yueran-z/yueran-doc/edit/master/docs/:path'
     },
     footer: {
       message: '热爱生活，喜好美食，追求未来！',
