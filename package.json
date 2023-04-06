@@ -1,7 +1,7 @@
 {
-  "name": "wujihuan-doc",
+  "name": "yueran-doc",
   "version": "1.0.0",
-  "description": "wujihuan学习记录文档",
+  "description": "yueran学习记录文档",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
